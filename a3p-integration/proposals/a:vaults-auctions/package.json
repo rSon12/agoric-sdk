@@ -10,8 +10,8 @@
   "type": "module",
   "license": "Apache-2.0",
   "dependencies": {
-    "@agoric/synthetic-chain": "^0.1.0",
-    "ava": "^5.3.1"
+    "@agoric/synthetic-chain": "^0.1.1",
+    "ava": "^6.0.0"
   },
   "ava": {
     "concurrency": 1,
