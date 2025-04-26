@@ -33,7 +33,7 @@
   "dependencies": {
     "@endo/errors": "^1.2.4",
     "@endo/eventual-send": "^1.2.4",
-    "@endo/import-bundle": "^1.2.1",
+    "@endo/import-bundle": "^1.4.0",
     "@endo/marshal": "^1.5.2"
   },
   "devDependencies": {
