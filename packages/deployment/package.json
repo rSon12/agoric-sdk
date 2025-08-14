@@ -25,7 +25,7 @@
     "better-sqlite3": "^9.1.1",
     "chalk": "^5.2.0",
     "deterministic-json": "^1.0.5",
-    "inquirer": "^8.2.2",
+    "inquirer": "^8.2.7",
     "minimist": "^1.2.0",
     "node-fetch": "^2.6.0",
     "temp": "^0.9.0"
