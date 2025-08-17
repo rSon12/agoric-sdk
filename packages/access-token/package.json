@@ -20,7 +20,7 @@
   "dependencies": {
     "n-readlines": "^1.0.0",
     "proper-lockfile": "^4.1.2",
-    "tmp": "^0.2.1"
+    "tmp": "^0.2.4"
   },
   "devDependencies": {
     "@types/n-readlines": "^1.0.3",
